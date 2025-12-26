@@ -7,9 +7,6 @@ Press any key to start, watch the sequence, then repeat it by clicking the boxes
 <img width="785" height="532" alt="image" src="https://github.com/user-attachments/assets/8e70cd4d-2707-42f1-bbfa-76b587af3036" />
 
 
-- `assets/demo.gif`
-- `assets/screenshot.png`
-
 ## Features
 - Random sequence generation (1–4)
 - Level counter displayed in the heading
