@@ -24,9 +24,10 @@ Press any key to start, watch the sequence, then repeat it by clicking the boxes
    ```bash
    https://github.com/SamWijes/SimonGame.git
 
-2.Open the project folder.
-3.Open index.html in your browser.
-  No build tools required.
+2. Open the project folder.
+3. Open index.html in your browser.
+
+ No build tools required.
 
 ## Controls
 - Press any key to start / restart the game.
